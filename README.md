@@ -1,5 +1,6 @@
 # Shift-characters-python
 อันดามัน นพนภาพร (ภูเขา)
+
 A mosquito net ,
 A can of petrol | 9 : ถังน้ำมัน อาจมีน้ำมันใช้จุดไฟ หรือถังเอาไว้ลอยน้ำได้ ,
 A water container | 5 ใช้เก็บน้ำดื่มได้ ,
